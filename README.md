@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://shamandeepkaur.netlify.app/static/media/shaman_Resume.8fbe02199ebf893fb3ac.pdf](https://shamandeepkaur.netlify.app/static/media/shaman_Resume.8fbe02199ebf893fb3ac.pdf)
 
-- ⚡ Fun fact **I think i good Listener**
+- ⚡ Fun fact **I Think i'am good Listener**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
