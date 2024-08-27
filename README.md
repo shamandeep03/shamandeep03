@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Nodejs and Backend Tech**
 
-- 👯 I’m looking to collaborate on [Safe Image kit](https://safeimagekit.com/)
-
 - 👨‍💻 All of my projects are available at [https://shamandeepkaur.netlify.app](https://shamandeepkaur.netlify.app)
 
 - 💬 Ask me about **Javascript,Reactjs,Nextjs,Vuejs,Nuxtjs,ReactNative,Nodejs,tailwind,Bootstrap,**
