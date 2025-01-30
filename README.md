@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shamandeepkaur19@gmail.com**
 
-- 📄 Know about my experiences [shamandeepkaur CV](https://shamandeepkaur.netlify.app/static/media/shaman_Resume.5b6540c28aca791ec93c.pdf)
+- 📄 Know about my experiences [shamandeepkaur CV](https://shamandeepkaur.netlify.app/static/media/shaman_Resume.585b741ce8295080a6db.pdf)
 
 - ⚡ Fun fact **I Think i'am good Listener**
 
