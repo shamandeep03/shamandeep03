@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shamandeep kaur</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on [EatFromYourSeat](https://www.eatfromyourseat.com/)
+- 🔭 I’m currently working on [Drillytics AI](https://drillytics.ai/)
 
 - 🌱 I’m currently learning **Nodejs and Backend Tech**
 
