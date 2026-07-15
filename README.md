@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI Engineering**
 
-- 👨‍💻 All of my projects are available at [https://shamandeepkaur.netlify.app](https://shamandeepkaur.netlify.app)
+- 👨‍💻 All of my projects are available at [https://shamandeep.dev/](https://shamandeep.dev/)
 
 - 💬 Ask me about **Javascript,Reactjs,Nextjs,Vuejs,Nuxtjs,ReactNative,Nodejs,tailwind,Bootstrap,**
 
