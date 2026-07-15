@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Drillytics AI](https://drillytics.ai/)
 
-- 🌱 I’m currently learning **Nodejs and Backend Tech**
+- 🌱 I’m currently learning **AI Engineering**
 
 - 👨‍💻 All of my projects are available at [https://shamandeepkaur.netlify.app](https://shamandeepkaur.netlify.app)
 
